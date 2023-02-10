@@ -12,3 +12,5 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # escrow-contract
+
+![](public/images/Screenshot from 2023-02-10 13-40-37.png)
