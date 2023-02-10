@@ -13,4 +13,4 @@ npx hardhat run scripts/deploy.js
 ```
 # escrow-contract
 
-![](public/images/Screenshot from 2023-02-10 13-40-37.png)
+![alt text](https://github.com/atifali-pm/escrow-contract/blob/main/public/images/Screenshot-2023-02-10-13-40-37.png)
